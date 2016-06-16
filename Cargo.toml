@@ -1,0 +1,8 @@
+[package]
+name    = "music_sorter"
+version = "0.1.0"
+authors = ["Kyle Finlay <kyle.finlay01@gmail.com>"]
+
+[dependencies]
+taglib  = {git = "https://github.com/ebassi/taglib-rust"}
+walkdir = "0.1.5"
